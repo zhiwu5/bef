@@ -8,8 +8,8 @@ url: "https://zhiwu5.github.io/" # the base hostname & protocol for your site, e
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: 平度一中2015级知务五班 # add banner title
+banner-desc: we are family！ # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
